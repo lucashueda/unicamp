@@ -8,6 +8,6 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 
 ## Autores:  
-- [Lucas Hideki Ueda](lucashueda@gmail.com)
-- Gustavo Guedes []
-- Inaye Caroline []
+* Lucas Hideki Ueda (lucashueda@gmail.com)
+* Gustavo Guedes []
+* Inaye Caroline []
