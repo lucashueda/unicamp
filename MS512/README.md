@@ -7,18 +7,18 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 - Entregar seções 1, 2 e 3 impresso e mandar código por email.
 - Data: 19/06/2019
 
-## O Projeto:
+# O Projeto:
 
-**Implementar:**
+### Implementar
 1. Cholesky (Watkins 1.4.17)
 2. Fatoração QR por Gram Schmdit (Watkins 3.4.19)
 3. Fatoração QR por matrizes ortogonais (Watkins 3.2.43, 3.2.35, 3.2.19)
     - Refletores, ou
     - Rotações
 
-**Resolver:**
+### Resolver
 
-1. Sistema linear:
+**1. Sistema linear:**
 
 ![equation](https://latex.codecogs.com/gif.latex?Ax&space;=&space;B)
 <br>
@@ -28,12 +28,12 @@ Onde,
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R^{nxp},&space;x&space;\in&space;R^{nxp})
 
-2. Encontrar a inversa:
+**2. Encontrar a inversa:**
 
 ![equation](https://latex.codecogs.com/gif.latex?B&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;I&space;\Rightarrow&space;x&space;=&space;A^{-1})
 <br>
 
-3. Calcular número de condicionamento
+**3. Calcular número de condicionamento**
 
 ![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;=&space;||A^{-1}||.||A||)
 <br>
@@ -59,7 +59,9 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
 <br>
 <br>
 
-## Esquema do relatório:
+<a href="https://www.codecogs.com/eqnedit.php?latex=h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" title="h_{ij} = {1 \over (i+j-1)}" /></a>
+
+# Esquema do relatório:
 
 * Seção 1 - Introdução:
     - Descrever os 3 algoritmos utilizados e enunciar teoremas
@@ -70,7 +72,7 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
     
 
 
-## Autores:  
+# Autores:  
 * Lucas Hideki Ueda (lucashueda@gmail.com)
 * Gustavo Guedes []
 * Inaye Caroline []
