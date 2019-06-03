@@ -56,7 +56,8 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
 <br>
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)})
-
+<br>
+<br>
 
 ## Esquema do relatório:
 
