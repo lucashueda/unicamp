@@ -4,7 +4,7 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 ## Entrega:
 
-- Entregar seção 1, 2 e 3 impresso e mandar código por email.
+- Entregar seções 1, 2 e 3 impresso e mandar código por email.
 - Data: 19/06/2019
 
 ## O Projeto:
@@ -34,6 +34,22 @@ Onde,
 <br>
 
 3. Calcular número de condicionamento
+
+![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;=&space;||A^{-1}||.||A||)
+<br>
+<br>
+
+Para duas colunas quaisquer checar:
+<br>
+<br>
+![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;\geq&space;{||a_i||_1&space;\over&space;||a_j||_1})
+<br>
+<br>
+Para fatoração por QR Ortogonal e um vetor w qualquer checar:
+<br>
+<br>
+![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;\geq&space;{||A||_1||A^{-1}w||_1&space;\over&space;||w||_1})
+
 
 
 
