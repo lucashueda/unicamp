@@ -9,8 +9,21 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 1. Cholesky (Watkins 1.4.17)
 2. Fatoração QR por Gram Schmdit (Watkins 3.4.19)
 3. Fatoração QR por matrizes ortogonais (Watkins 3.2.43, 3.2.35, 3.2.19)
-    - Refletores ou
+    - Refletores, ou
     - Rotações
+
+**Resolver:**
+
+1. Sistema linear:
+
+\begin{eqaution}
+    
+    Ax = b, onde A \in R^{nxn}, B \in \R
+
+\end{equation}
+## Esquema do relatório:
+
+
 
 ## Autores:  
 * Lucas Hideki Ueda (lucashueda@gmail.com)
