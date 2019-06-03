@@ -28,10 +28,12 @@ Onde,
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R^{nxp},&space;x&space;\in&space;R^{nxp})
 
+
 **2. Encontrar a inversa:**
 
 ![equation](https://latex.codecogs.com/gif.latex?B&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;I&space;\Rightarrow&space;x&space;=&space;A^{-1})
 <br>
+
 
 **3. Calcular número de condicionamento**
 
@@ -48,6 +50,12 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
 <br>
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;\geq&space;{||A||_1||A^{-1}w||_1&space;\over&space;||w||_1})
+<br>
+<br>
+Onde,
+<br>
+<br>
+![equation](https://latex.codecogs.com/gif.latex?||A_1||&space;=&space;max_{i<j<n}\sum_{i=1}^n&space;|a_{ij}|)
 <br>
 <br>
 
