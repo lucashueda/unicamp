@@ -16,11 +16,11 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 1. Sistema linear:
 
-\begin{eqaution}
-    
-    Ax = b, onde A \in R^{nxn}, B \in \R
 
-\end{equation}
+    
+    Ax = b, onde A $\in$ $R^{nxn}$, B $\in$ $\R$
+
+
 ## Esquema do relatório:
 
 
