@@ -22,10 +22,15 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 Onde,
 <br>
 <br>
-![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R{nxp},&space;x&space;\in&space;R{nxp})
+![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R^{nxp},&space;x&space;\in&space;R^{nxp})
 
 2. Encontrar a inversa:
 
+![equation](https://latex.codecogs.com/gif.latex?B&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;I&space;\Rightarrow&space;x&space;=&space;A^{-1})
+<br>
+<br>
+
+3. Calcular número de condicionamento
 
 
 
