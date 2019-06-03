@@ -55,11 +55,10 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
 - Matrizes de Hilbert são matrizes onde as posições são descritas pelo elemento geral:
 <br>
 <br>
-![equation](https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)})
+<a href="https://www.codecogs.com/eqnedit.php?latex=h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" title="h_{ij} = {1 \over (i+j-1)}" /></a>
 <br>
 <br>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" title="h_{ij} = {1 \over (i+j-1)}" /></a>
 
 # Esquema do relatório:
 
