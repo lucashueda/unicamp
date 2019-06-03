@@ -5,7 +5,12 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 ## O Projeto:
 
-
+**Implementar:**
+1. Cholesky (Watkins 1.4.17)
+2. Fatoração QR por Gram Schmdit (Watkins 3.4.19)
+3. Fatoração QR por matrizes ortogonais (Watkins 3.2.43, 3.2.35, 3.2.19)
+  1. Refletores ou
+  2. Rotações
 
 ## Autores:  
 * Lucas Hideki Ueda (lucashueda@gmail.com)
