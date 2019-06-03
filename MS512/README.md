@@ -17,7 +17,12 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 1. Sistema linear:
 
 ![equation](https://latex.codecogs.com/gif.latex?Ax&space;=&space;B)
-    
+Onde,
+![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R{nxp},&space;x&space;\in&space;R{nxp})
+
+2. Encontrar a inversa:
+
+
 
 
 ## Esquema do relatório:
