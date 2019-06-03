@@ -38,7 +38,6 @@ Onde,
 ![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;=&space;||A^{-1}||.||A||)
 <br>
 <br>
-
 Para duas colunas quaisquer checar:
 <br>
 <br>
@@ -49,12 +48,25 @@ Para fatoração por QR Ortogonal e um vetor w qualquer checar:
 <br>
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?K_1(A)&space;\geq&space;{||A||_1||A^{-1}w||_1&space;\over&space;||w||_1})
+<br>
+<br>
 
-
+**Relizar testes com matrizes de Hilbert de dimensões 3, 6 e alguma n grande**
+- Matrizes de Hilbert são matrizes onde as posições são descritas pelo elemento geral:
+<br>
+<br>
+![equation](https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)})
 
 
 ## Esquema do relatório:
 
+* Seção 1 - Introdução:
+    - Descrever os 3 algoritmos utilizados e enunciar teoremas
+* Seção 2 - Cálculo da inversa:
+    - Descrever o processo para se obter a inversa e apresentar resultados
+* Seção 3 - Número de condicionamento:
+    - Descrever as análises do número de condicionamento
+    
 
 
 ## Autores:  
