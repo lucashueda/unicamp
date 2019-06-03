@@ -16,9 +16,8 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 1. Sistema linear:
 
-
+![equation](https://latex.codecogs.com/gif.latex?Ax&space;=&space;B)
     
-    Ax = b, onde A $\in$ $R^{nxn}$, B $\in$ $\R$
 
 
 ## Esquema do relatório:
