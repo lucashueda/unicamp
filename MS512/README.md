@@ -2,6 +2,10 @@
 
 Nesse repositório constará os códigos e descrição do projeto de Análise Numérica 2S2019. Que consiste em implementação de algoritmos de fatoração para resolução de sistemas lineares e problemas de mínimos quadrados.
 
+## Entrega:
+
+- Entregar seção 1, 2 e 3 impresso e mandar código por email.
+- Data: 19/06/2019
 
 ## O Projeto:
 
@@ -27,7 +31,6 @@ Onde,
 2. Encontrar a inversa:
 
 ![equation](https://latex.codecogs.com/gif.latex?B&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;I&space;\Rightarrow&space;x&space;=&space;A^{-1})
-<br>
 <br>
 
 3. Calcular número de condicionamento
