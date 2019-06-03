@@ -18,7 +18,9 @@ Nesse repositório constará os códigos e descrição do projeto de Análise Nu
 
 ![equation](https://latex.codecogs.com/gif.latex?Ax&space;=&space;B)
 <br>
+<br>
 Onde,
+<br>
 <br>
 ![equation](https://latex.codecogs.com/gif.latex?A&space;\in&space;R^{nxn}&space;,&space;B&space;\in&space;R{nxp},&space;x&space;\in&space;R{nxp})
 
