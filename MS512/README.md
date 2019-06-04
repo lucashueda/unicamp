@@ -62,7 +62,6 @@ Onde,
 **Relizar testes com matrizes de Hilbert de dimensões 3, 6 e alguma n grande**
 - Matrizes de Hilbert são matrizes onde as posições são descritas pelo elemento geral:
 <br>
-<br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?h_{ij}&space;=&space;{1&space;\over&space;(i&plus;j-1)}" title="h_{ij} = {1 \over (i+j-1)}" /></a>
 <br>
 <br>
