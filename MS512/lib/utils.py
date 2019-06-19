@@ -50,7 +50,24 @@ def retroSub(A,b):
     return x
 
 def norma_mat1(A):
-    return A
+    
+    A = np.array(A)
+    
+    
+
+    
+    if((A.shape == (int(A.shape[0]),)) | (A.shape[0] == 1)):
+
+        return sum([np.abs(v) for v in A])
+    
+    c = []
+    
+    
+    for i in range(A.shape[0]):
+        c.append(sum([np.abs(v) for v in A[:,i]]))
+    
+    
+    return np.max(c)
 
 def getHilbert(n):
     
