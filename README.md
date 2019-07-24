@@ -1,6 +1,6 @@
 # Projects from Applied Math Undergraduate at UNICAMP (Brazil)
 
-All coded projects from Applied Math courses
+Along my undergraduate i did a few code based projects and here you can find the most relevant ones in my data scientis formation. 
 
 # Overview on projects
 
@@ -24,6 +24,7 @@ All coded projects from Applied Math courses
   - Finite elements method 2D (Matlab)
 - MS428 - Linear Programming
   - Simplex implementation (Octave)
-- MS&&& - Network flows
+- MS529 - Network flows
+  - Minimum flow in graph
 
 **@author Lucas Hideki Ueda**
